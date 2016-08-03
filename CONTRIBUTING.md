@@ -8,9 +8,9 @@ The following is a set of guidelines for contributing to **the bruery**. These a
 
 ## Summary
 
-* [Code of Conduct](#Code of Conduct)
-* [Suggestion Enhancement](#Suggestion Enhancement)
-* [Pull Request](#Pull Request)
+* [Code of Conduct](#code-of-conduct)
+* [Suggestion Enhancement](#suggestion-enhancement)
+* [Pull Request](#pull-request)
 
 ## Code of Conduct
 

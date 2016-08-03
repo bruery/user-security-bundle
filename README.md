@@ -1,4 +1,4 @@
-# admin-bundle
+# AdminBundle
 
 A [SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) Extension.
 

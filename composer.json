@@ -22,7 +22,7 @@
     "bruery/admin-bundle": "self.version"
   },
   "autoload": {
-    "psr-4": { "Bruery\\Bundle\\": "src/bundles/" }
+    "psr-4": { "Bruery\\": "src/bundles/" }
   },
   "extra": {
     "branch-alias": {

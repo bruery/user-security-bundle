@@ -1,0 +1,32 @@
+{
+  "name": "bruery/platform",
+  "type": "library",
+  "description": "Bruery, BAP, Platform",
+  "keywords": ["Symfony2", "Bruery", "BAP", "Platform"],
+  "homepage": "https://bruery.github.io/platform/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "viktore zara",
+      "email": "viktore.zara@gmail.com",
+      "homepage": "https://github.com/gzilt"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.3.3",
+    "twig/twig": "~1.20|~2.0",
+    "twig/extensions": "~1.0"
+  }
+  "replace": {
+    "bruery/admin-bundle": "self.version"
+  },
+  "autoload": {
+    "psr-4": { "Bruery\\Bundle\\": "src/bundles/" }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.x-dev"
+    }
+  }
+}

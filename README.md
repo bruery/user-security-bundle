@@ -1,14 +1,11 @@
-# The Bruery - Business Application Platform  (BAP)
+# BlockBundle
 
-![Alt text](https://raw.githubusercontent.com/bruery/platform/master/src/platform/Resources/img/bruery-logo.png "Bruery")
+A [SonataBlockBundle](https://github.com/sonata-project/SonataBlockBundle) Extension.
 
-The Bruery Platform offers developers a bootstrap template for developing business applications, by combining the tools they need. Built in PHP5, Symfony2 full-stack and extends [Sonata Project Bundles](http://sonata-project.org), it seamlessly integrates
-into [Bruery apps](https://github.com/bruery) or works entirely standalone.
-Developing custom business applications has never been so easy.
 
 ## Documentation
 
-Check out the documentation on the bundles [wiki page](https://github.com/bruery/platform/wiki).
+Check out the documentation on the bundles [wiki page](https://github.com/bruery/block-bundle/wiki).
 
 ## Support
 
@@ -20,3 +17,7 @@ If you think you find a bug or you have a feature idea to propose, feel free to 
 ## License
 
 This package is available under the [MIT license](LICENSE).
+
+
+
+Updated readme added descriptions and links to the wiki page, bug reporting and contribution.

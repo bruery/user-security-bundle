@@ -14,7 +14,7 @@ use Bruery\BlockBundle\DependencyInjection\Compiler\OverrideServiceCompilerPass;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class BlockBundle extends Bundle
+class BrueryBlockBundle extends Bundle
 {
     /**
      * {@inheritDoc}

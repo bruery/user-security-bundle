@@ -20,7 +20,7 @@ use Symfony\Component\HttpKernel\DependencyInjection\Extension;
  *
  * To learn more see {@link http://symfony.com/doc/current/cookbook/bundles/extension.html}
  */
-class AdminExtension extends Extension
+class BrueryAdminExtension extends Extension
 {
     /**
      * {@inheritdoc}

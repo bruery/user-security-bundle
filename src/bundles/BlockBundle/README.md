@@ -1,4 +1,4 @@
-# block-bundle
+# BlockBundle
 
 A [SonataBlockBundle](https://github.com/sonata-project/SonataBlockBundle) Extension.
 

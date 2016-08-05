@@ -1,13 +1,13 @@
 <?php
-
-/*
- * This file is part of the BrueryAdminBundle package.
+/**
+ * This file is part of the Bruery Platform.
  *
- * (c) mell m. zamora <mell@rzproject.org>
+ * (c) Viktore Zara <viktore.zara@gmail.com>
+ * (c) Mell Zamorw <mellzamora@outlook.com>
  *
- * For the full copyright and license information, please view the LICENSE
- * file that was distributed with this source code.
+ * Copyright (c) 2016. For the full copyright and license information, please view the LICENSE  file that was distributed with this source code.
  */
+
 
 namespace Bruery\AdminBundle\DependencyInjection\Compiler;
 

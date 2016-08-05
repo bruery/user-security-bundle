@@ -17,11 +17,14 @@
     "php": ">=5.3.3",
     "twig/twig": "~1.20|~2.0",
     "twig/extensions": "~1.0",
-    "sonata-project/admin-bundle": "^3.0"
+    "sonata-project/admin-bundle": "^3.0",
+    "sonata-project/block-bundle": "^3.0",
+    "sonata-project/classification-bundle": "^3.0",
   },
   "replace": {
     "bruery/admin-bundle": "self.version",
-    "bruery/block-bundle": "self.version"
+    "bruery/block-bundle": "self.version",
+    "bruery/classification-bundle": "self.version"
   },
   "autoload": {
     "psr-4": { "Bruery\\": "src/bundles/" }

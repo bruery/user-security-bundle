@@ -20,7 +20,8 @@
     "sonata-project/admin-bundle": "^3.0"
   },
   "replace": {
-    "bruery/admin-bundle": "self.version"
+    "bruery/admin-bundle": "self.version",
+    "bruery/block-bundle": "self.version"
   },
   "autoload": {
     "psr-4": { "Bruery\\": "src/bundles/" }

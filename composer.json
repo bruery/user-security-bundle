@@ -40,7 +40,10 @@
     "bruery/core-bundle": "self.version",
     "bruery/admin-bundle": "self.version",
     "bruery/block-bundle": "self.version",
-    "bruery/doctrine-orm-admin-bundle": "self.version"
+    "bruery/doctrine-orm-admin-bundle": "self.version",
+    "bruery/oauth-server-bundle": "self.version",
+    "bruery/user-bundle": "self.version",
+    "bruery/user-security-bundle": "self.version"
   },
   "autoload": {
     "psr-4": { "Bruery\\": "src/bundles/" }
